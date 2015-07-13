@@ -1,0 +1,130 @@
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font-size: 13px;
+	background-image: url(elements/background_big_fablab_logo.gif);
+	background-repeat: space;
+	background-attachment: fixed;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 
+	padding-right: 15px;
+	padding-left: 15px; 
+}
+a img { 
+	border: none;
+}
+
+
+
+a:link {
+	text-decoration: none;
+	color: #666;
+	}
+a:visited {
+	text-decoration: none;
+	color: #000;
+	}
+a:hover {
+	color: #999;
+	text-decoration: underline;
+	}
+	
+	
+
+
+.container {
+	width: 978px;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+
+.header {
+	/* [disabled]position: fixed; */
+	width: 975px;
+	height: 200px;
+	background-color: #FFF;
+	z-index: 5;
+	padding-left: 3px;
+}
+
+.sidebar1 {
+	float: left;
+	width: 150px;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+	margin-top: 48px;
+	/* [disabled]position: fixed; */
+	padding-left: 2px;
+}
+.content {
+	width: 825px;
+	float: left;
+	/* [disabled]margin-top: 210px; */
+	/* [disabled]margin-left: 152px; */
+	/* [disabled]position: static; */
+	background-color: #FFF;
+}
+
+
+.content ul, .content ol {
+	/* [disabled]padding: 0 15px 15px 40px; */ /* this padding mirrors the right padding in the headings and paragraph rule above. Padding was placed on the bottom for space between other elements on the lists and on the left to create the indention. These may be adjusted as you wish. */
+}
+
+/* ~~ The navigation list styles (can be removed if you choose to use a premade flyout menu like Spry) ~~ */
+ul.nav {
+	list-style: none; /* this removes the list marker */
+	/* [disabled]border-top: 1px solid #666; */ /* this creates the top border for the links - all others are placed using a bottom border on the LI */
+	margin-bottom: 15px;
+}
+ul.nav li {
+	/* [disabled]border-bottom: 1px solid #666; */ /* this creates the button separation */
+}
+ul.nav a, ul.nav a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
+	padding: 5px 5px 5px 15px;
+	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
+	width: 130px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
+	text-decoration: none;
+	background-color: #FFFFFF;
+	color: #000;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+	background-color: #FFFFFF;
+	color: #666;
+}
+
+
+
+/* ~~ The footer ~~ */
+.footer {
+	padding: 10px 0;
+	background-color: #FFFFFF;
+	position: relative;/* this gives IE6 hasLayout to properly clear */
+	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
