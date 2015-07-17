@@ -5,7 +5,7 @@ body {
 	padding: 0;
 	color: #000;
 	font-size: 13px;
-	background-image: url(elements/background_big_fablab_logo.gif);
+	/*background-image: url(elements/background_big_fablab_logo.gif);*/
 	background-repeat: space;
 	background-attachment: fixed;
 }
