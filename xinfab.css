@@ -11,6 +11,13 @@ body {
 }
 
 /* ~~ Element/tag selectors ~~ */
+qrfont {
+	color: #000;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 11px;
+	font-variant: normal;
+}	
+
 ul, ol, dl {
 	padding: 0;
 	margin: 0;
@@ -42,6 +49,31 @@ a:hover {
 	
 	
 
+#qrcode {
+	height:165px;
+	width:135px;
+	position: fixed;
+	top: 10%;
+	right: 5%;
+	z-index: 1000;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-style: italic;
+	background-color: #FFF;
+	outline-color: #CCC;
+	outline-width: 1px;
+	outline-style: dotted;
+}
+	
+	
+
+	
+	
+	
 
 .container {
 	width: 978px;
