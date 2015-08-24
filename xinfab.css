@@ -84,7 +84,7 @@ a:hover {
 .header {
 	/* [disabled]position: fixed; */
 	width: 975px;
-	height: 200px;
+	height: 185px;
 	background-color: #FFF;
 	z-index: 5;
 	padding-left: 3px;
