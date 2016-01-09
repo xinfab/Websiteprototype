@@ -1,5 +1,9 @@
 body {
+  padding-top: 30px;
   padding-bottom: 30px;
+  @media (max-width: 767px) {
+    padding-top: 0;
+  }
 }
 
 .qr {
@@ -39,14 +43,6 @@ body {
   }
 }
 
-.logo-wrapper .logo {
-  display: block;
-  margin: 15px auto;
-  @media (max-width: 767px) {
-    display: none;
-  }
-}
-
 .navbar {
   @media (min-width: 768px) {
     display: none;
@@ -54,6 +50,9 @@ body {
 }
 
 .side-nav {
+  .logo {
+    margin-bottom: 20px;
+  }
   @media (max-width: 767px) {
     display: none;
   }

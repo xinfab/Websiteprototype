@@ -14,8 +14,6 @@ From startups to non profit organizations to big commercial companies we offer s
 - 3d printer maintenance,
 - workshops for learning and team building purposes.
 
-
-
 ## Education
 
 For educational partnership we offer workshops, varying from half day workshops to long term workshops. With the focuss on educating students about
@@ -25,14 +23,10 @@ For educational partnership we offer workshops, varying from half day workshops 
 - innovation and
 - production methods like 3d printing, laser cutting and cnc milling.
 
-
-
 ## Individuals
 
 For individuals we offer our space and machines to work on private or commercial projects.
 Also individuals can sign up for workshops te learn more about the machines that we have or just for fun!
-
-
 
 ## Workshops
 
