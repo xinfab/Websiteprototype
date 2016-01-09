@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+      "folder_exclude_patterns":
+      [
+        ".jekyll",
+        ".sass-cache"
+      ],
+      "file_exclude_patterns":
+      [
+        ".sublime-project.sublime-workspace"
+      ],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
+}
