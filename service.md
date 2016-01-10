@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service
-permalink: /
+permalink: /service/
 ---
 
 <img class="img-responsive" src="/img/service.jpg" alt="service" />
