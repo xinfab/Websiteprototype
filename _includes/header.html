@@ -14,21 +14,11 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Service</a></li>
-        <li><a href="#">Equipment</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Sponsorship</a></li>
-        <li><a href="#">Join Us</a></li>
-        <li><a href="#">Contact / info</a></li>
+        {% include menu-items.html %}
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Order a 3D Print &copy; 3D HUBS</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Wiki</a></li>
-            <li><a href="#">Liability Waiver</a></li>
+            {% include links-items.html %}
           </ul>
         </li>
       </ul>
