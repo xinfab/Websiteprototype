@@ -6,7 +6,7 @@ permalink: /test/
 
 ## Testing
 
-Content.
+This has been changed from the command line. 
 
 <img class="img-responsive" src="/img/about.jpg" 
   alt="about xin fab" />
