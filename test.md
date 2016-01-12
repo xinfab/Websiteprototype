@@ -1,12 +1,12 @@
 --
 layout: page
 title: Test
-permalink: ?/test/
+permalink: /test/
 --
 
 ## Testing
 
-Content content
+Content.
 
 <img class="img-responsive" src="/img/about.jpg" 
   alt="about xin fab" />
