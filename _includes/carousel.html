@@ -1,7 +1,7 @@
 <div id="home-carousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    {% for i in (1..9) %}
+    {% for i in (0..8) %}
       {% if i == 1 %}
         <li data-target="#home-carousel" data-slide-to="{{ i }}" class="active"></li>
       {% else %}
@@ -14,9 +14,9 @@
   <div class="carousel-inner" role="listbox">
     {% for i in (1..6) %}
       {% if i == 1 %}
-        <div class="item active">
+      <div class="item active">
       {% else %}
-        <div class="item ">
+      <div class="item ">
       {% endif %}
         <div class="img-wrapper">
           <img src="/img/our-space/{{ i }}.jpg" alt="our space">
