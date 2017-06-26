@@ -12,44 +12,20 @@
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    {% for i in (1..6) %}
-      {% if i == 1 %}
-      <div class="item active">
+    {% for item in site.data.carousel %}
+      {% if item.first == true %}
+        <div class="item active">
       {% else %}
-      <div class="item ">
+        <div class="item">
       {% endif %}
         <div class="img-wrapper">
-          <img src="/img/our-space/{{ i }}.jpg" alt="our space">
+          <img src="{{ item.img | prepend: site.baseurl }}" alt="{{ item.text }}">
         </div>
         <div class="carousel-caption">
-          our space
+          {{ item.text }}
         </div>
       </div>
     {% endfor %}
-    <div class="item">
-      <div class="img-wrapper">
-        <img src="/img/cafeteria.jpg" alt="cafeteria">
-      </div>
-      <div class="carousel-caption">
-        cafeteria
-      </div>
-    </div>
-    <div class="item">
-      <div class="img-wrapper">
-        <img src="/img/entrance.jpg" alt="entrance">
-      </div>
-      <div class="carousel-caption">
-        entrance
-      </div>
-    </div>
-    <div class="item">
-      <div class="img-wrapper">
-        <img src="/img/meeting-room.jpg" alt="meeting-room">
-      </div>
-      <div class="carousel-caption">
-        meeting-room
-      </div>
-    </div>
   </div>
 
   <!-- Controls -->

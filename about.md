@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="img-responsive" src="/img/about.jpg" 
+<img class="img-responsive" src="{{ '/img/about.jpg' | prepend: site.baseurl }}"
   alt="about xin fab" />
 
 ## What is XinFab?
@@ -52,16 +52,16 @@ XinFab is run by a collective of paid staff, volunteers, interns, and residents.
 
 ## Entrance
 
-<img class="img-responsive" src="/img/entrance.jpg" 
+<img class="img-responsive" src="{{ '/img/entrance.jpg' | prepend: site.baseurl }}"
   alt="about xin fab" />
 
 ## Cafeteria
 
-<img class="img-responsive" src="/img/cafeteria.jpg" 
+<img class="img-responsive" src="{{ '/img/cafeteria.jpg' | prepend: site.baseurl }}"
   alt="about xin fab" />
 
 ## Meeting Room
 
-<img class="img-responsive" src="/img/meeting-room.jpg" 
+<img class="img-responsive" src="{{ '/img/meeting-room.jpg' | prepend: site.baseurl }}"
   alt="about xin fab" />
 

@@ -4,7 +4,7 @@ title: Service
 permalink: /service/
 ---
 
-<img class="img-responsive" src="/img/service.jpg" alt="service" />
+<img class="img-responsive" src="{{ '/img/service.jpg' | prepend: site.baseurl }}" alt="service" />
 
 ## Business
 

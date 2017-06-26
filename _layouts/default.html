@@ -17,14 +17,14 @@
       </div>
 
       <div class="qr">
-        <img src="/img/xinfabqr.jpg" />Scan for our Wechat account
+        <img src="{{ '/img/xinfabqr.jpg' | prepend: site.baseurl }}" />Scan for our Wechat account
       </div>
       {% include footer.html %}
 
     </div>
 
-  <script type="text/javascript" src="{{ "vender/js/jquery.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "vender/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/vender/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/vender/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
   </body>
 
 </html>

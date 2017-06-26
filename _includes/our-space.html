@@ -1,24 +1,6 @@
+{% for i in (1...6) %}
 <p>
-  <img class="img-responsive" src="/img/our-space/1.jpg"
+  <img class="img-responsive" src="{{ "/img/our-space/" | prepend: site.baseurl }}{{i}}.jpg"
     alt="space of xin fab" />
 </p>
-<p>
-  <img class="img-responsive" src="/img/our-space/2.jpg"
-    alt="space of xin fab" />
-</p>
-<p>
-  <img class="img-responsive" src="/img/our-space/3.jpg"
-    alt="space of xin fab" />
-</p>
-<p>
-  <img class="img-responsive" src="/img/our-space/4.jpg"
-    alt="space of xin fab" />
-</p>
-<p>
-  <img class="img-responsive" src="/img/our-space/5.jpg"
-    alt="space of xin fab" />
-</p>
-<p>
-  <img class="img-responsive" src="/img/our-space/6.jpg"
-    alt="space of xin fab" />
-</p>
+{% endfor %}
