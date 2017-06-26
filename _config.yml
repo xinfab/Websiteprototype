@@ -12,8 +12,8 @@ description: >
   Xinfab is a fablab in the centre of Shanghai
 keywords: >
   Xinfab, fablab, jingan, Shanghai, China, , opensource, non-profit, makerspace, office, digital fabrication, open design, innovation, share, 3d printing, laser cutter, milling, cnc, workspace, xinchejian, people2
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "xinfab/" # the subpath of your site, e.g. /blog
+url: "http://emj365.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
