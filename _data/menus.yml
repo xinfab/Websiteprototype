@@ -1,0 +1,23 @@
+- text: Home
+  link: /
+
+- text: About
+  link: /about/
+
+- text: Service
+  link: /service/
+
+- text: Equipment
+  link: /equipment/
+
+- text: Projects
+  link: /projects/
+
+- text: Sponsorship
+  link: /sponsorship/
+
+- text: Join Us
+  link: /join-us/
+
+- text: Contact / info
+  link: /contact-info/

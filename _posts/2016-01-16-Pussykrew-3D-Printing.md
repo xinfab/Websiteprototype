@@ -11,7 +11,7 @@ categories: workshop
 
 ##跟和平饭店斯沃琪波兰新媒体艺术家Pussykrew来扫描和克隆你自己！
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew8.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew8.jpg"
   alt="pussykrew_image1" />
 
 **主讲**：波兰新媒体艺术家Pussykrew
@@ -52,25 +52,25 @@ categories: workshop
 
 ###关于Pussykrew
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew6.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew6.jpg"
   alt="pussykrew_image2" />
 
 参加“Artist of the Year（年度艺术家）”竞赛的3D打印塑像合作二人组合Pussykrew与他们的作品“Materia”系列。
 Pussykrew的成员分别是波兰新媒体艺术家Andrzej Wojtas（又名Jendrek或是mi$ Gogo）和Ewelina Aleksandrowicz（又名Tikul）。他们曾经住在德国柏林，都获得了纽卡斯尔大学文化实验室（Culture Lab）的数字媒体研究学位，米德尔斯堡的数字创新研究所的数字城市奖学金（Digital City Fellowship）获得者。在过去十年，两名艺术家使用了很多种媒体—从家用录像系统播放器、音乐影片到3D打印机—制作他们称之为“性别偏移的视觉旅程、透过肉体的数据网格、液体的烦躁不安、和3D幻想洗牌。
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew2.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew2.jpg"
   alt="pussykrew_image3" />
 
 他们在2004年开始合作，从2008年开始使用“Pussykrew”的绰号，从他们合作开始，创作了无数的高度艺术创作，将最新的视觉、声音媒体表达形式和后现代人性结合在一起。他们还与很多的艺术家、音乐家、设计师合作过，包括Leila (WARP Records)、HTRK (Work Tour 2011)、Raime (Blackest Ever Black)、Oni Ayhun、Angel Haze、Kode9、Actress、Evian Christ、James Ferraro、Kassem Mosse、Nguzunguz等等。Pussykrew的艺术创作经常出现在世界各地的艺廊、数字与/或声音艺术大会，无疑会在今年伦敦的3D打印展中吸引了很多游客。
 
- <img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/new planet under construction.jpg" 
+ <img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/new planet under construction.jpg"
   alt="a new planet under construction QR" />
 
 我们和[“一个建设中的星球”](http://aconstruct.weebly.com/)合作组织了这个工作坊。“一个建设中的星球”是一个面向脑部残障人士提供艺术治疗援助和成果展示平台的非盈利组织。
 
 ##Live scanning and 3D cloning workshop with Pussykrew!
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew7.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew7.jpg"
   alt="pussykrew_image3" />
 
 **Featuring:** Pussykrew, a new media artist group from Poland
@@ -110,17 +110,17 @@ Reply keyword【0116】+ your name and contact info to our official wechat accou
 
 ###About Pussykrew
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew1.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew1.jpg"
   alt="pussykrew_image4" />
 
 The Pussykrew collaboration duo consists of the Polish new media artists Andrzej Wojtas (also known as Jendrek or mi$ Gogo) and Ewelina Aleksandrowicz (also known as Tikul). Though currently based in Berlin, both artists have a Digital Media Studies degree from the Culture Lab at Newcastle University and have been awarded a Digital City Fellowship from the Institute of Digital Innovation in Middlesbrough, both in the UK. For the past ten years, both artists have been using a very wide range of media – from vhs players and music videos to 3D printers – to create, as they themselves put it, 'gender-bending visual journeys, filtered through carnal data mesh, liquid apocalyptic dysphoria and 3d fantasy shuffle'.
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew3.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/pussykrew3.jpg"
   alt="pussykrew_image5" />
 
 They started working together in 2004 - and have worked under the Pussykrew moniker since 2008 – and have since then developed numerous highly artistic creations that often bring the latest visual and sonic media expressions and postmodern humanity together. They have also collaborated with a long list of artists, musicians and designers since then, such as Leila (WARP Records), HTRK (Work Tour 2011), Raime (Blackest Ever Black). Oni Ayhun, Angel Haze, Kode9, Actress, Evian Christ, James Ferraro, Kassem Mosse and Nguzunguz. Pussykrew's creations have also been regularly featured in art galleries and digital and/or sonic art conventions throughout the world in recent years, and will doubtlessly interest many visitors at this year's 3D Printshow in London.
 
-<img class="img-responsive" src="/img/wechat-posts/1-16-2016-Pussykrew-3D-printing/new planet under construction.jpg" 
+<img class="img-responsive" src="{{ site.img_path }}/wechat-posts/1-16-2016-Pussykrew-3D-printing/new planet under construction.jpg"
   alt="a new planet under construction QR" />
 
 This workshop was organized in partnership with [New Planet Under Construction](http://aconstruct.weebly.com/). New Planet Under Construction is a NGO that focuses on helping people with autism to discover and explore their hidden talents through an art-focused learning platform. With our help, they are able to build up their confidence and further their personal growth through the rehabilitative power of art.

@@ -1,0 +1,27 @@
+- img: /img/our-space/1.jpg
+  text: our space
+  first: true
+
+- img: /img/our-space/2.jpg
+  text: our space
+
+- img: /img/our-space/3.jpg
+  text: our space
+
+- img: /img/our-space/4.jpg
+  text: our space
+
+- img: /img/our-space/5.jpg
+  text: our space
+
+- img: /img/our-space/6.jpg
+  text: our space
+
+- img: /img/cafeteria.jpg
+  text: cafeteria
+
+- img: /img/entrance.jpg
+  text: cafeteria
+
+- img: /img/meeting-room.jpg
+  text: meeting-room

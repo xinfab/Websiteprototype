@@ -10,7 +10,7 @@ permalink:
 {% for post in site.posts %}
   <h3>
     {{ post.date | date_to_string }}
-    &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h3>
   {{ post.excerpt }}
 {% endfor %}
