@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me</title>
+	<style type="text/css">
+	.heading-wrapper{
+		padding: 40px;
+	}
+	.heading-wrapper h1 {
+		text-transform: uppercase;
+		font-family: "Open Sans";
+		font-weight: 400;
+		font-size: 45px;
+		text-align: center;
+	}
+
+		.flex-container{
+			display: flex;
+			margin: auto;
+			justify-content: center;
+			align-items: center;
+			margin-bottom: 80px;
+		}
+
+		.flex-item{
+			width: 400px;
+			
+		}
+
+		.profile-container{
+			/*border-right:2px solid #666;*/
+			position: relative;
+		}
+		img{
+			border-radius: 50%;
+			padding: 50px;
+			margin-left: 95px;
+		}
+		.bio-container{
+			border-left:4px solid #666;
+		}
+		.bio-container p{
+			font-family: "times new roman";
+			font-size: 16px;
+			color: #666;
+			padding: 50px;
+		}
+
+		/* ============== footer =========*/
+		.footer-nav-wrapper{
+			/*height: 100px;*/
+			margin: auto;
+			position: relative;
+		}
+
+		ul{
+			list-style: none;
+			display: inline-block;
+			position: absolute;
+			padding: 0;
+			left: 50%;
+			top:50%;
+			transform: translate(-50%,-50%);
+		}
+
+		ul li {
+			float: left;
+		}
+		li a {
+			display: block;
+			padding: 5px 15px 50px 15px;
+			text-decoration: none;
+			color: #666;
+			/*font-family: "open sans";*/
+			font-size:18px;
+		}
+
+		li a:hover {
+			color: #c1c1c1;
+			cursor: pointer;
+		}
+
+	</style>
+</head>
+<body>
+<div class="heading-wrapper">
+	<h1>About Me</h1>
+</div>
+<div class="about-wrapper flex-container">
+	<div class="flex-item profile-container">
+		<img src="img/profile.jpg" width="200px" height="200px">
+	</div>
+
+	<div class="flex-item bio-container">
+		<p>
+			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+		</p>
+	</div>
+
+		
+
+</div>
+
+<footer>
+<nav>
+<div class="footer-nav-wrapper">
+			<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="#">Blog</a></li>
+	</ul>
+</div>
+
+</nav>
+
+	
+</footer>
+
+</body>
+</html>
